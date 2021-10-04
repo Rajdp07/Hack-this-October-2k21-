@@ -1,0 +1,15 @@
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\bin\Debug\netcoreapp3.1\HelloSharpWorld.exe
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\bin\Debug\netcoreapp3.1\HelloSharpWorld.deps.json
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\bin\Debug\netcoreapp3.1\HelloSharpWorld.runtimeconfig.json
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\bin\Debug\netcoreapp3.1\HelloSharpWorld.runtimeconfig.dev.json
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\bin\Debug\netcoreapp3.1\HelloSharpWorld.dll
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\bin\Debug\netcoreapp3.1\HelloSharpWorld.pdb
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\obj\Debug\netcoreapp3.1\HelloSharpWorld.csproj.AssemblyReference.cache
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\obj\Debug\netcoreapp3.1\HelloSharpWorld.AssemblyInfoInputs.cache
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\obj\Debug\netcoreapp3.1\HelloSharpWorld.AssemblyInfo.cs
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\obj\Debug\netcoreapp3.1\HelloSharpWorld.csproj.CoreCompileInputs.cache
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\obj\Debug\netcoreapp3.1\HelloSharpWorld.dll
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\obj\Debug\netcoreapp3.1\HelloSharpWorld.pdb
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\obj\Debug\netcoreapp3.1\HelloSharpWorld.genruntimeconfig.cache
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\obj\Debug\netcoreapp3.1\HelloSharpWorld.Properties.Resources.resources
+E:\GithubDesktopRepos\Hack-this-October-2k21-\AlexHolderDeveloper\CSharp\HelloSharpWorld\obj\Debug\netcoreapp3.1\HelloSharpWorld.csproj.GenerateResource.cache

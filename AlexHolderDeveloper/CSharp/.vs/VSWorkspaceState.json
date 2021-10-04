@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HelloSharpWorld",
+    "\\HelloSharpWorld\\bin",
+    "\\HelloSharpWorld\\bin\\Debug",
+    "\\HelloSharpWorld\\bin\\Debug\\netcoreapp3.1",
+    "\\HelloSharpWorld\\bin\\Release",
+    "\\HelloSharpWorld\\bin\\Release\\netcoreapp3.1",
+    "\\HelloSharpWorld\\obj",
+    "\\HelloSharpWorld\\obj\\Debug",
+    "\\HelloSharpWorld\\obj\\Debug\\netcoreapp3.1",
+    "\\HelloSharpWorld\\obj\\Release"
+  ],
+  "SelectedNode": "\\HelloSharpWorld\\bin\\Debug\\netcoreapp3.1\\HelloSharpWorld.exe",
+  "PreviewInSolutionExplorer": false
+}
