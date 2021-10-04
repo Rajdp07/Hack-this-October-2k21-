@@ -1,0 +1,118 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+:root{
+    /* resize the rem value 16 to 10 px */
+    font-size:1vw;
+    /* global variables for the web */
+    --bg-clr:black;
+    --fg-clr:linear-gradient(to left , #C04848,#480048);
+    --tlt-fnt:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --cnt-fnt:monospace;
+    --blur-val:blur(20px);
+}
+.center{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+body{
+    width:100vw;
+    height:100vh;
+}
+/* game-console styles */
+.game-console {
+    width:100%;
+    height:100%;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    background-color:aquamarine;
+    overflow:hidden;
+    flex-wrap:wrap;
+}
+/* points section */
+.points .title{
+    font-size:4rem;
+    font-family:var(--tlt-fnt);
+    font-weight:bolder;
+    text-transform:uppercase;
+    margin-bottom:3rem;
+    opacity:.6;
+}
+.points .point{
+    font-size:15rem;
+    font-weight:bold;
+    font-family:var(--cnt-fnt);
+}
+/* game control section */
+.game-controls{
+    padding:3rem;
+    backdrop-filter:var(--blur-val);
+    border:1px solid rgba(0,0,0,.1);
+    border-right:none;
+    border-bottom:none;
+    box-shadow:5px 5px 10px 3px rgba(0,0,0,.3);
+    border-radius:5px;
+    background-color:rgba(255,255,255,.5);
+}
+.game-controls .title{
+    font-family:var(--cnt-fnt);
+    font-size:3rem;
+    margin-bottom:3rem;
+    padding:1rem 3rem;
+    font-weight:lighter;
+}
+.game-controls .choice{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+}
+.game-controls .choice button{
+    font-size:2rem;
+    text-transform:uppercase;
+    background-color:transparent;
+    padding:1rem;
+    border:none;
+    outline:none;
+    border:1px solid rgba(0,0,0,.1);
+    border-right:none;
+    border-bottom:none;
+    box-shadow:2px 2px 5px 1px rgba(0,0,0,.3);
+    border-radius:5px;
+}
+.game-controls .choice button:hover{
+    box-shadow:inset 2px 2px 5px 1px rgba(0,0,0,.3);
+}
+/*game moves reflecter */
+.game-controls .currentMoves {
+    display:grid;
+    place-items:center;
+    margin-top:3rem;
+}
+.game-controls .currentMoves span{
+    text-align:center;
+    word-spacing:.4rem;
+    font-size:3rem;
+    font-family:var(--cnt-fnt);
+}
+/*game starter banner */
+.starter{
+    width:100%;
+    height:100%;
+    display:grid;
+    place-items:center;
+    position:fixed;
+    top:0;
+    left:0;
+    backdrop-filter:blur(10px);
+}
+.starter span{
+    font-size:4rem;
+    font-family:var(--cnt-fnt);
+    word-spacing:.3rem;
+    font-weight:bold;
+    text-align:center;
+}
