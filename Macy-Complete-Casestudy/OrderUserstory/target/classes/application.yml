@@ -1,0 +1,41 @@
+#spring.h2.console.enabled=true
+#spring.datasource.driverClassName=org.h2.Driver
+#spring.datasource.platform=org.hibernate.dialect.H2Dialect
+#spring.datasource.url=jdbc:h2:mem:products;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+#spring.datasource.username=pod6
+#spring.datasource.password=pod6
+
+#server.port=8081
+#spring.application.name=products
+#spring.jpa.hibernate.ddl-auto=update
+#logging.level.com.simulation=DEBUG
+  
+#spring.h2.console.settings.web-allow-others=true
+#spring.h2.console.path=/products/h2-console
+spring:
+    h2:
+      console:
+            enabled: true
+            path: /products/h2-console
+            settings:
+                   web-allow-others: true
+                   
+                  
+    datasource:
+             driverClassName: org.h2.Driver
+             platform: org.hibernate.dialect.H2Dialect
+             url: jdbc:h2:mem:products;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+             username: pod1
+             password: pod1
+    application.name: Order-microservice
+    jpa: 
+      hibernate:
+              ddl-auto: update
+logging:
+      level:
+          com:
+            simulation: DEBUG
+feign:
+    url: http://localhost:8080/profile
+server:
+     port: 8081
