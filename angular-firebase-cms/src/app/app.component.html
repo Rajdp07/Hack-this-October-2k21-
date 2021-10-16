@@ -1,0 +1,23 @@
+<button >Destroy</button>
+
+<ul>
+  <li *ngFor="let course of courses$ | async ">
+  {{course }}
+  </li>
+</ul>
+
+<p>
+  {{course$ | async | json }}
+</p>
+
+<p>
+    {{author$ | async | json }}
+</p>
+  
+<ul *ngIf="author$ | async as author">
+    <li > {{author.name }}</li>
+    <li > {{author.students }}</li>
+    <li > {{author.isPremium }}</li>
+  </ul>
+
+  <input type="text" (keyup.enter)="add()" #course>
