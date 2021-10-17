@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Image to Code Generator</title>
+     <!--font-->
+     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
+     <!-- Latest compiled and minified CSS-->
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+     <!-- Bootstrap CDN-->
+     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+          integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+          crossorigin="anonymous"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+          integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+          crossorigin="anonymous"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+          integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+          crossorigin="anonymous"></script>
+     <!--Font awesome-->
+     <script src="https://kit.fontawesome.com/c8e97d8e9f.js" crossorigin="anonymous"></script>
+
+     <!-- CRYPTO-JS CDN -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js"></script>
+     <!--CSS file-->
+     <link rel="stylesheet" href="./styles/index.css">
+</head>
+
+<body>
+
+     <div class="container ">
+          <div class="head">
+               <h1>Image to Secret Code Generator</h1>
+               <h6>Choose images from 4*4 matrix for generating secret <code></code></h5>
+          </div>
+          <div class="justify-content-center">
+
+               <div class='row1'>
+                    <img class="image" id="img1" src="./animal_images/02_boris-smokrovic.jpg">
+                    <img class="image" id="img2" src="./animal_images/03_cara-fuller.jpg">
+                    <img class="image" id="img0" src="./animal_images/01_bonnie-kittle.jpg">
+                    <img class="image" id="img3" src="./animal_images/04_frida-bredesen.jpg">
+
+               </div>
+
+               <div class="row2">
+                    <img class="image" id="img4" src="./animal_images/05_harald-hofer.jpg">
+                    <img class="image" id="img5" src="./animal_images/06_jared-rice.jpg">
+                    <img class="image" id="img6" src="./animal_images/07_jeremy-bishop.jpg">
+                    <img class="image" id="img7" src="./animal_images/08_judah-legge.jpg">
+               </div>
+
+               <div class="row3">
+                    <img class="image" id="img8" src="./animal_images/09_lisa-h.jpg">
+                    <img class="image" id="img9" src="./animal_images/10_mark-stoop.jpg">
+                    <img class="image" id="img10" src="./animal_images/11_matthew-henry.jpg">
+                    <img class="image" id="img11" src="./animal_images/12_photo-nic.jpg">
+               </div>
+
+               <div class="row4">
+                    <img class="image" id="img12" src="./animal_images/13_priss-enri.jpg">
+                    <img class="image" id="img13" src="./animal_images/14_ravi-singh.jpg">
+                    <img class="image" id="img14" src="./animal_images/15_ray-hennessy.jpg">
+                    <img class="image" id="img15" src="./animal_images/16_vincent-van.jpg">
+               </div>
+
+          </div>
+
+          <br>
+          <div class="head">
+               <h1>Choose Four types of Characters</h1>
+
+          </div>
+          <div class="code-img">
+               <!-- Enter images here -->
+
+          </div>
+          <br>
+          <div class="head">
+               <h1>Your Secret Code is Here</h1>
+
+          </div>
+          <div class="code1">
+               <!-- Enter code here -->
+          </div>
+          <br>
+          <button class="btn btn-danger">Reset</button>
+     </div>
+
+     <br />
+     <br />
+     <footer class="bg-dark">
+          <section id="footer" class="py-5">
+               <div class="container text-center">
+
+                    <ul class="social-icons">
+                         <li><a class="facebook" href="https://github.com/Shubhamdutta2000" target="_blank"><i class="fa fa-github fa-2x"></i></a></li>
+                         <li><a class="twitter" href="https://twitter.com/Shubham_dutta15" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
+                         <li><a class="linkedin" href="https://www.linkedin.com/in/shubham--dutta/" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a></li>   
+                       </ul>
+                    <h6 class="m-0 mt-4 text-center text-white text-capitalize">Copyright &copy; 2020 </h6>
+                    <h5 class="m-0 mt-4 text-center text-white text-capitalize">Made with ♥ by Shubham Dutta</h5>
+               </div>
+          </section>
+     </footer>
+     <script src="./scripts/index.js"></script>
+</body>
+
+</html>
