@@ -29,33 +29,12 @@ img:hover {
 }
 
 .social-icons {
-     display: flex;
-     flex-direction: row;
-     list-style-type: none;
-     justify-content: center;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: center;
 }
 
-
-
-
-/* 
-#footer .twitter {
-  background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
-  background-repeat: no-repeat;
-  background-position: 0 0;
-}
-#footer .linkedin {
-  background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
-  background-repeat: no-repeat;
-  background-position: -78px 0;
-}
-#footer .github {
-     width: auto;
-     height: auto;
-  background-image: url(https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png);
-  background-repeat: no-repeat;
-  background-position: -233px 0;
-} */
 #footer a {
   height: 56px;
   width: 56px;
@@ -66,19 +45,3 @@ img:hover {
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
 }
-
-/* #footer .twitter:hover {
-  background-position: 0 -56px;
-}
-#footer .github:hover {
-  background-position: -233px -56px;
-}
-#footer .skype:hover {
-  background-position: -156px -56px;
-}
-#footer .linkedin:hover {
-  background-position: -78px -56px;
-}
-#footer .flickr:hover {
-  background-position: -310px -56px;
-} */
