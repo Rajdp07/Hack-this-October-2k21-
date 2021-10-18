@@ -1,0 +1,103 @@
+​02/Oct/2021 22:41:37,029​- root​: Entered name =>amit
+​02/Oct/2021 22:41:37,312​- root​: Employee details
+​02/Oct/2021 22:43:19,627​- root​: Employee Details entered
+​02/Oct/2021 22:43:19,672​- root​: Employee Added Successfully
+​02/Oct/2021 22:43:25,947​- root​: Entered name =>swastik
+​02/Oct/2021 22:43:25,950​- root​: Employee details
+​02/Oct/2021 23:04:44,526​- root​: Entered id =>101
+​02/Oct/2021 23:04:44,877​- root​: Employee details found
+​03/Oct/2021 07:00:59,988​- root​: Employee info printed
+​03/Oct/2021 07:01:38,469​- root​: Employee info printed
+​03/Oct/2021 07:06:36,310​- root​: Status exit..
+​03/Oct/2021 07:06:58,226​- root​: Employee info printed
+​03/Oct/2021 07:07:34,814​- root​: weddingdate date entered2021-08-20
+​03/Oct/2021 07:07:34,838​- root​: Employee details printed
+​03/Oct/2021 07:07:55,586​- root​: weddingdate date entered2016-08-20
+​03/Oct/2021 07:07:55,590​- root​: Employee details printed
+​03/Oct/2021 07:29:43,704​- root​: Employee Details entered
+​03/Oct/2021 07:29:43,771​- root​: Employee Added Successfully
+​03/Oct/2021 07:30:33,566​- root​: Employee Details entered
+​03/Oct/2021 07:30:33,570​- root​: Employee Added Successfully
+​03/Oct/2021 07:30:48,153​- root​: Employee info printed
+​03/Oct/2021 07:36:04,817​- root​: Employee info printed
+​03/Oct/2021 07:36:36,371​- root​: Entered name =>hassan
+​03/Oct/2021 07:36:36,434​- root​: NameNotFoundException :=Employee Not Found with given name hassan
+​03/Oct/2021 07:37:38,363​- root​: Entered name =>hassanuj
+​03/Oct/2021 07:37:38,644​- root​: Employee details found
+​03/Oct/2021 10:20:15,207​- root​: Entered id =>101
+​03/Oct/2021 10:20:15,496​- root​: Employee details found
+​03/Oct/2021 10:20:32,694​- root​: Entered id =>104
+​03/Oct/2021 10:20:32,697​- root​: Employee details found
+​03/Oct/2021 10:20:40,172​- root​: Entered id =>3
+​03/Oct/2021 10:20:40,175​- root​: Exception message =>Employee not Found with id 3
+​03/Oct/2021 10:20:45,888​- root​: Employee info printed
+​03/Oct/2021 10:21:14,211​- root​: Birthdate date entered 1999-03-26
+​03/Oct/2021 10:21:14,222​- root​: Employee info printed 
+​03/Oct/2021 11:40:46,235​- root​: Birthdate date entered 1999-03-26
+​03/Oct/2021 11:40:46,528​- root​: Employee info printed 
+​03/Oct/2021 11:41:24,084​- root​: Birthdate date entered 1999-03-26
+​03/Oct/2021 11:41:24,352​- root​: Employee info printed 
+​03/Oct/2021 12:30:59,746​- root​: Employee info printed
+​03/Oct/2021 12:31:02,690​- root​: Status exit..
+​03/Oct/2021 15:17:28,391​- root​: id is 101
+​03/Oct/2021 15:18:02,659​- root​: Successful! Employee details Edited
+​03/Oct/2021 15:18:12,192​- root​: Entered name =>siba
+​03/Oct/2021 15:18:12,197​- root​: Employee details found
+​03/Oct/2021 15:18:18,462​- root​: Entered id =>101
+​03/Oct/2021 15:18:18,465​- root​: Employee details found
+​03/Oct/2021 15:24:58,217​- root​: Birthdate date entered 1999-03-26
+​03/Oct/2021 15:24:58,500​- root​: Employee info printed 
+​03/Oct/2021 15:28:22,091​- root​: Birthdate date entered 1999-03-26
+​03/Oct/2021 15:28:22,393​- root​: Employee info printed 
+​03/Oct/2021 15:29:11,410​- root​: Employee Details entered
+​03/Oct/2021 15:29:11,437​- root​: Employee Added Successfully
+​03/Oct/2021 15:29:26,892​- root​: Birthdate date entered 1999-03-26
+​03/Oct/2021 15:29:26,895​- root​: Employee info printed 
+​03/Oct/2021 16:00:54,986​- root​: Employee Details entered
+​03/Oct/2021 16:00:55,220​- root​: Employee Added Successfully
+​03/Oct/2021 16:01:15,225​- root​: Entered name =>akash
+​03/Oct/2021 16:01:15,316​- root​: Employee details found
+​03/Oct/2021 16:01:26,616​- root​: Entered id =>107
+​03/Oct/2021 16:01:26,621​- root​: Employee details found
+​03/Oct/2021 16:01:37,583​- root​: id is 107
+​03/Oct/2021 16:02:12,802​- root​: Successful! Employee details Edited
+​03/Oct/2021 16:02:30,657​- root​: Birthdate date entered 1999-03-07
+​03/Oct/2021 16:02:30,662​- root​: Employee info printed 
+​03/Oct/2021 16:02:52,008​- root​: weddingdate date entered 1989-06-14
+​03/Oct/2021 16:02:52,014​- root​: Employee details printed
+​03/Oct/2021 16:03:14,631​- root​: Employee info printed
+​03/Oct/2021 16:03:26,349​- root​: Status exit..
+​03/Oct/2021 16:19:38,227​- root​: Employee info printed
+​03/Oct/2021 16:21:39,925​- root​: Employee info printed
+​03/Oct/2021 16:25:04,127​- root​: Birthdate date entered 1999-03-26
+​03/Oct/2021 16:25:04,400​- root​: Employee info printed 
+​03/Oct/2021 18:37:19,895​- root​: id is 101
+​03/Oct/2021 18:37:56,497​- root​: Successful! Employee details Edited
+​03/Oct/2021 18:38:06,538​- root​: Entered id =>101
+​03/Oct/2021 18:38:06,540​- root​: Employee details found
+​03/Oct/2021 19:05:52,229​- root​: Employee info printed
+​03/Oct/2021 19:10:29,444​- root​: Employee info printed
+​03/Oct/2021 19:15:20,674​- root​: Birthdate date entered 1999-03-26
+​03/Oct/2021 19:15:20,947​- root​: Employee info printed 
+​03/Oct/2021 19:34:55,047​- root​: Employee info printed
+​03/Oct/2021 19:36:31,354​- root​: Entered id =>101
+​03/Oct/2021 19:36:31,651​- root​: Employee details found
+​03/Oct/2021 19:36:36,667​- root​: Employee info printed
+​03/Oct/2021 19:36:47,799​- root​: Entered name =>swastik
+​03/Oct/2021 19:36:47,805​- root​: Employee details found
+​03/Oct/2021 20:03:12,511​- root​: Employee info printed
+​03/Oct/2021 20:14:20,794​- root​: Employee info printed
+​03/Oct/2021 21:25:08,982​- root​: Employee info printed
+​04/Oct/2021 06:38:10,050​- root​: Employee info printed
+​04/Oct/2021 06:38:40,109​- root​: Entered id =>101
+​04/Oct/2021 06:38:40,123​- root​: Employee details found
+​04/Oct/2021 07:43:16,135​- root​: Birthdate date entered 1999-03-26
+​04/Oct/2021 07:43:16,429​- root​: Employee info printed 
+​04/Oct/2021 16:38:18,708​- root​: Employee info printed
+​04/Oct/2021 23:26:41,937​- root​: Employee info printed
+​04/Oct/2021 23:26:49,188​- root​: Entered name =>SWASTIK
+​04/Oct/2021 23:26:49,195​- root​: Exception :=Employee Not Found with given name SWASTIK
+​04/Oct/2021 23:27:21,907​- root​: Entered name =>swastik
+​04/Oct/2021 23:27:22,225​- root​: Employee details found
+​04/Oct/2021 23:28:03,605​- root​: Entered name =>swastik
+​04/Oct/2021 23:28:03,905​- root​: Employee details found
