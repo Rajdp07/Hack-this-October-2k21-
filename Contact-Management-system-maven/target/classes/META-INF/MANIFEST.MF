@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 16.0.1
+Class-Path: ./src/main/resources/lib/ojdbc8-19.3.0.0.jar ./src/main/reso
+ urces/lib/ucp-19.3.0.0.jar ./src/main/resources/lib/oraclepki-19.3.0.0.
+ jar ./src/main/resources/lib/osdt_cert-19.3.0.0.jar ./src/main/resource
+ s/lib/osdt_core-19.3.0.0.jar ./src/main/resources/lib/simplefan-19.3.0.
+ 0.jar ./src/main/resources/lib/ons-19.3.0.0.jar ./src/main/resources/li
+ b/log4j-1.2.17.jar
+Main-Class: com.project.service.Application
+Created-By: Maven Integration for Eclipse
+
